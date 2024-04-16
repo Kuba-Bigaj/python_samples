@@ -1,2 +1,3 @@
-# python_samples
-A collection of simple scripts used to manage peripheral devices
+# Python Samples
+A collection of simple scripts used to manage peripheral devices. 
+Authors: Kuba bigaj and Jakub Biadalski
